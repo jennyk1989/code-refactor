@@ -59,6 +59,11 @@ nav a {
     background-position: center;
 }
 
+/* body only sytling*/
+body {
+    background-color: #d9dcd6;
+}
+ß
 /* content section styling*/
 p {
     font-size: 16px;
