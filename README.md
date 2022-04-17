@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor
 ## Description
 Refactored starter code to improve accessibility and the code-base for the Horiseon website.  
 
